@@ -3,7 +3,7 @@ body{
   width:100%;
   background:url(http://unsplash.it/1920/1080?random=1) no-repeat;
   background-size:100%;
-  margin:10%;
+  margin:5%;
 }
 #pano, #map {
   height: 580px;
