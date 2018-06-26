@@ -2,6 +2,6 @@
 <h1 align="center">What is it?</h1>
 <h2 align="center">Google-Maps</h2>
 <p align="center">CSS, JavaScript, Google-Maps API</p> 
-<p>Also try on your phone :)</p>
+<p align="center">Also try on your phone :)</p>
 
  
